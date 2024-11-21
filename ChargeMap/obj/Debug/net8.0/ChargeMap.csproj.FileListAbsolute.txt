@@ -1,0 +1,9 @@
+D:\Enzo\AulasFiap\GS-.NET\ChargeMap\ChargeMap\obj\Debug\net8.0\ChargeMap.csproj.AssemblyReference.cache
+D:\Enzo\AulasFiap\GS-.NET\ChargeMap\ChargeMap\obj\Debug\net8.0\ChargeMap.GeneratedMSBuildEditorConfig.editorconfig
+D:\Enzo\AulasFiap\GS-.NET\ChargeMap\ChargeMap\obj\Debug\net8.0\ChargeMap.AssemblyInfoInputs.cache
+D:\Enzo\AulasFiap\GS-.NET\ChargeMap\ChargeMap\obj\Debug\net8.0\ChargeMap.AssemblyInfo.cs
+D:\Enzo\AulasFiap\GS-.NET\ChargeMap\ChargeMap\obj\Debug\net8.0\ChargeMap.csproj.CoreCompileInputs.cache
+D:\Enzo\AulasFiap\GS-.NET\ChargeMap\ChargeMap\obj\Debug\net8.0\ChargeMap.MvcApplicationPartsAssemblyInfo.cs
+D:\Enzo\AulasFiap\GS-.NET\ChargeMap\ChargeMap\obj\Debug\net8.0\ChargeMap.MvcApplicationPartsAssemblyInfo.cache
+D:\Enzo\AulasFiap\GS-.NET\ChargeMap\ChargeMap\obj\Debug\net8.0\ChargeMap.RazorAssemblyInfo.cache
+D:\Enzo\AulasFiap\GS-.NET\ChargeMap\ChargeMap\obj\Debug\net8.0\ChargeMap.RazorAssemblyInfo.cs
